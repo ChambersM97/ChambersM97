@@ -1,6 +1,6 @@
 ### Welcome to my (cool) Github Profile! 👋
 
-<img src="./images/IMG_6586.png" width="350" height="450">
+<img src="./images/IMG_6586.png" width="100" height="165">
 <!--
 **ChambersM97/ChambersM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
