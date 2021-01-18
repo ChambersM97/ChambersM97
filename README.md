@@ -1,22 +1,17 @@
-### Welcome to my (cool) Github Profile! 👋
+## Welcome to my Github Profile! 👋
 
 ![Chambers' github stats](https://github-readme-stats.vercel.app/api?username=ChambersM97)
 
 <div>
-<img src="./images/IMG_6586.png" width="100" height="165">
-<img src="./images/IMG_6634.png" width="100" height="165">
-<img src="./images/IMG_6588.png" width="100" height="165">
+<img src="./images/IMG_6586.png" width="150" height="165">
+<img src="./images/IMG_6634.png" width="150" height="165">
+<img src="./images/IMG_6588.png" width="150" height="165">
 <div>
 
 ---
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💡 I’m currently learning ...
+
 
 <!--
 **ChambersM97/ChambersM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
