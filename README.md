@@ -2,15 +2,10 @@
 
 ![Chambers' github stats](https://github-readme-stats.vercel.app/api?username=ChambersM97)
 
-<div>
-<img src="./images/IMG_6586.png" width="162" height="165">
-<img src="./images/IMG_6634.png" width="162" height="165">
-<img src="./images/IMG_6588.png" width="162" height="165">
-<div>
 
 ---
 
-## 💡 I’m currently learning ...
+
 
 
 <!--
